@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Pikachu",
+    "type": "Electric",
+    "evolution": {
+      "name": "Raichu",
+      "type": "Electric",
+      "healthPoints": 80,
+      "combatPoints": 60,
+      "candies": 0
+    },
+    "healthPoints": 60,
+    "combatPoints": 40,
+    "candies": 0
+  },
+  
+  {
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "evolution": {
+      "name": "Ivysaur",
+      "type": "Grass",
+      "healthPoints": 90,
+      "combatPoints": 50,
+      "candies": 0
+    },
+    "healthPoints": 45,
+    "combatPoints": 30,
+    "candies": 0
+  },
+  {
+    "name": "Aspicot",
+    "type": "Insecte",
+    "evolution": {
+      "name": "Conconfort",
+      "type": "Insecte",
+      "healthPoints": 100,
+      "combatPoints": 70,
+      "candies": 0
+    },
+    "healthPoints": 70,
+    "combatPoints": 30,
+    "candies": 0
+  },
+  {
+    "name": "Roucool",
+    "type": "Vol",
+    "evolution": {
+      "name": "Roucoups",
+      "type": "Vol",
+      "healthPoints": 110,
+      "combatPoints": 80,
+      "candies": 0
+    },
+    "healthPoints": 55,
+    "combatPoints": 35,
+    "candies": 0
+  },
+  {
+    "name": "Rattatac",
+    "type": "Normal",
+    "evolution": {
+      "name": "Rattata",
+      "type": "Normal",
+      "healthPoints": 75,
+      "combatPoints": 40,
+      "candies": 0
+    },
+    "healthPoints": 65,
+    "combatPoints": 25,
+    "candies": 0
+  },
+  {
+    "name": "Abo",
+    "type": "Poison",
+    "evolution": null,
+    "healthPoints": 60,
+    "combatPoints": 30,
+    "candies": 0
+  }
+]
